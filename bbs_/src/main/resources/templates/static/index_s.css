@@ -1,0 +1,14 @@
+.title{
+    background: #ffff;
+    width: 350px;
+    padding: 10px;
+    text-align: center;
+    margin: 25px auto;
+}
+body{
+    background: #eeeeee;
+    font-family: Meiryo;
+}
+table{
+    font-size: 20px;
+}
